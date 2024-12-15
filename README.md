@@ -4,6 +4,8 @@
 
 The goal for each player is to get all their pawns into the centre of the board before other players.
 
+The description be wiki: https://en.wikipedia.org/wiki/Mensch_%C3%A4rgere_Dich_nicht
+
 
 ## In-Game Items:
 
